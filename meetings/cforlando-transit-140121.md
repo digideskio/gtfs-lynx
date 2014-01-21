@@ -1,7 +1,7 @@
 # Code for Orlando / Transit
 
-January 21, 2014
-~1:45pm - 2:45pm
+January 21, 2014  
+~1:45pm - 2:45pm  
 Downtown Credo
 
 Discussing possibilities for creating physical and/or digital maps incorporating public transportation (LYNX, LYMMO, SunRail), cycling and walking, with a focus on Downtown Orlando and surrounding neighborhoods.
