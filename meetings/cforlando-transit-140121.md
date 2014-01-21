@@ -8,7 +8,7 @@ Discussing possibilities for creating physical and/or digital maps incorporating
 
 ## Audio
 
-An audio recording of the meeting is available: <https://github.com/cforlando/transit/meetings/cforlando-transit-140121-audio.wav>
+An audio recording of the meeting is available: [cforlando-transit-140121-audio.wav](cforlando-transit-140121-audio.wav)
 
 ## Notes
 
